@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_edit"
+            android:title="editar datos" />
+        <item
+            android:id="@+id/nav_Ver"
+            android:title="Ver lugales" />
+        <item
+            android:id="@+id/nav_close"
+            android:title="cerrar session" />
+    </group>
+
+
+</menu>

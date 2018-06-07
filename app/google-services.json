@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "473141712676",
+    "firebase_url": "https://ciudadcity-b4f81.firebaseio.com",
+    "project_id": "ciudadcity-b4f81",
+    "storage_bucket": "ciudadcity-b4f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473141712676:android:701215265d1740b2",
+        "android_client_info": {
+          "package_name": "com.cristian.ciudadcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473141712676-ssm5bcstksrdjlg12al4p0itbp9vlgkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cristian.ciudadcity",
+            "certificate_hash": "15cf265df70672903de640b716ddaf57df21ab7f"
+          }
+        },
+        {
+          "client_id": "473141712676-3kpqbimots8s52b29qpsai6l0qpsnn9i.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "473141712676-3kpqbimots8s52b29qpsai6l0qpsnn9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBsN_7duxcaLiGnBUrV091Ys0uU05dztM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473141712676-3kpqbimots8s52b29qpsai6l0qpsnn9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
